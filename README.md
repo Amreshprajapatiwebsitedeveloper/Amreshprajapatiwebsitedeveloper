@@ -57,7 +57,7 @@ const amresh = {
 </td>
 <td width="42%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/images/coding.gif" width="100%" alt="coding"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding"/>
 
 </td>
 </tr>
@@ -92,7 +92,7 @@ const amresh = {
 <code>15+ Projects</code>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/seo.png" width="60"/><br/>
+<img src="https://img.icons8.com/fluency/96/search.png" width="60"/><br/>
 <b>SEO / Marketing</b><br/>
 <sub>Better search visibility, speed, structure & engagement</sub><br/><br/>
 <code>8+ Projects</code>
@@ -196,8 +196,8 @@ timeline
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amreshpr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d4ff&icon_color=6a00f4&text_color=ffffff&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreshpr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d4ff&text_color=ffffff&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=amreshpr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d4ff&icon_color=6a00f4&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=amreshpr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d4ff&text_color=ffffff&langs_count=8" />
 </p>
 
 <p align="center">
@@ -205,11 +205,11 @@ timeline
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amreshpr&bg_color=0f0c29&color=00d4ff&line=6a00f4&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amreshpr&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amreshpr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=amreshpr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
 <!-- Snake animation: works after adding .github/workflows/snake.yml (see setup notes) -->
