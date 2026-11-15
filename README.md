@@ -1,18 +1,18 @@
 <!-- ═══════════════════════  HEADER  ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a00f4,100:00d4ff&height=230&section=header&text=Amresh%20Prajapati&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Website%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Mumbai%2C%20India&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,55:5c0a1f,100:ff184e&height=230&section=header&text=Amresh%20Prajapati&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Website%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Mumbai%2C%20India&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://amreshprajapati.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hey+There!+I'm+Amresh+Prajapati+%F0%9F%91%8B;I+Build+Premium+Websites+That+Grow+Brands+%F0%9F%9A%80;React+JS+%7C+WordPress+%7C+Full+Stack+%7C+SEO;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8;Let's+Build+Something+Extraordinary!+%F0%9F%92%BB" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF184E&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hey+There!+I'm+Amresh+Prajapati+%F0%9F%91%8B;I+Build+Premium+Websites+That+Grow+Brands+%F0%9F%9A%80;React+JS+%7C+WordPress+%7C+Full+Stack+%7C+SEO;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8;Let's+Build+Something+Extraordinary!+%F0%9F%92%BB" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://amreshprajapati.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-amreshprajapati.com-6a00f4?style=for-the-badge&labelColor=0f0c29"/></a>
-  <a href="mailto:info@amreshprajapati.com"><img src="https://img.shields.io/badge/📩_Hire_Me-info@amreshprajapati.com-00d4ff?style=for-the-badge&labelColor=0f0c29"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Amreshprajapatiwebsitedeveloper&label=Profile%20Views&color=6a00f4&style=for-the-badge" alt="profile views"/>
+  <a href="https://amreshprajapati.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-amreshprajapati.com-ff184e?style=for-the-badge&labelColor=0b0b0f"/></a>
+  <a href="mailto:info@amreshprajapati.com"><img src="https://img.shields.io/badge/📩_Hire_Me-info@amreshprajapati.com-ffcc33?style=for-the-badge&labelColor=0b0b0f"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Amreshprajapatiwebsitedeveloper&label=Profile%20Views&color=ff184e&style=for-the-badge" alt="profile views"/>
 </p>
 
 <p align="center">
@@ -67,11 +67,11 @@ const amresh = {
 ## 🏆 Impact in Numbers
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⏳_Experience-4%2B_Years-6a00f4?style=for-the-badge&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/badge/🚀_Projects-53%2B_Completed-00d4ff?style=for-the-badge&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/badge/😊_Happy_Clients-20%2B-ff2e88?style=for-the-badge&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/badge/🌍_Countries_Served-5%2B-00e676?style=for-the-badge&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/badge/⭐_Google_Reviews-5.0-ffb300?style=for-the-badge&labelColor=0f0c29"/>
+  <img src="https://img.shields.io/badge/⏳_Experience-4%2B_Years-ff184e?style=for-the-badge&labelColor=0b0b0f"/>
+  <img src="https://img.shields.io/badge/🚀_Projects-53%2B_Completed-ffcc33?style=for-the-badge&labelColor=0b0b0f"/>
+  <img src="https://img.shields.io/badge/😊_Happy_Clients-20%2B-ff184e?style=for-the-badge&labelColor=0b0b0f"/>
+  <img src="https://img.shields.io/badge/🌍_Countries_Served-5%2B-ffcc33?style=for-the-badge&labelColor=0b0b0f"/>
+  <img src="https://img.shields.io/badge/⭐_Google_Reviews-5.0-ffcc33?style=for-the-badge&labelColor=0b0b0f"/>
 </p>
 
 <!-- ═══════════════════════  SERVICES  ═══════════════════════ -->
@@ -152,7 +152,7 @@ A conversion‑focused website for solar products, batteries and EV solutions �
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-✓-00e676?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-✓-ffcc33?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -163,15 +163,15 @@ A conversion‑focused website for solar products, batteries and EV solutions �
 A modern website for a 360° design studio focused on wall graphics, signage and placemaking — coded entirely in React JS.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Premium-ff2e88?style=flat-square)
-![Animations](https://img.shields.io/badge/Animations-✓-6a00f4?style=flat-square)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Premium-ff184e?style=flat-square)
+![Animations](https://img.shields.io/badge/Animations-✓-ff184e?style=flat-square)
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://amreshprajapati.com/"><img src="https://img.shields.io/badge/🔥_View_All_53+_Projects-Visit_Portfolio-6a00f4?style=for-the-badge&labelColor=0f0c29"/></a>
+  <a href="https://amreshprajapati.com/"><img src="https://img.shields.io/badge/🔥_View_All_53+_Projects-Visit_Portfolio-ff184e?style=for-the-badge&labelColor=0b0b0f"/></a>
 </p>
 
 <!-- ═══════════════════════  JOURNEY  ═══════════════════════ -->
@@ -196,21 +196,21 @@ timeline
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amreshprajapatiwebsitedeveloper&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amreshprajapatiwebsitedeveloper&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amreshprajapatiwebsitedeveloper&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amreshprajapatiwebsitedeveloper&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amreshprajapatiwebsitedeveloper&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amreshprajapatiwebsitedeveloper&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amreshprajapatiwebsitedeveloper&theme=tokyonight&hide_border=true&background=0f0c29&ring=6a00f4&fire=00d4ff&currStreakLabel=00d4ff" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Amreshprajapatiwebsitedeveloper&hide_border=true&background=0B0B0F&stroke=FFFFFF22&ring=FF184E&fire=FFCC33&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF184E&sideLabels=FFCC33&dates=FFFFFFAA" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amreshprajapatiwebsitedeveloper&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amreshprajapatiwebsitedeveloper&theme=radical" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Amreshprajapatiwebsitedeveloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=Amreshprajapatiwebsitedeveloper&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
 <!-- Snake animation: works after adding .github/workflows/snake.yml (see setup notes) -->
@@ -259,16 +259,16 @@ timeline
 </p>
 
 <p align="center">
-  <a href="https://amreshprajapati.com/"><img src="https://img.shields.io/badge/🚀_START_YOUR_PROJECT-6a00f4?style=for-the-badge"/></a>
-  <a href="mailto:info@amreshprajapati.com"><img src="https://img.shields.io/badge/📩_EMAIL_ME-00d4ff?style=for-the-badge"/></a>
+  <a href="https://amreshprajapati.com/"><img src="https://img.shields.io/badge/🚀_START_YOUR_PROJECT-ff184e?style=for-the-badge"/></a>
+  <a href="mailto:info@amreshprajapati.com"><img src="https://img.shields.io/badge/📩_EMAIL_ME-ffcc33?style=for-the-badge"/></a>
   <a href="https://wa.me/919004068462"><img src="https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=6A00F4&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Ready+to+elevate+your+online+presence%3F;%F0%9F%92%AC+Let's+create+something+extraordinary+together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFCC33&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Ready+to+elevate+your+online+presence%3F;%F0%9F%92%AC+Let's+create+something+extraordinary+together!" />
 </p>
 
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6a00f4,100:0f0c29&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff184e,45:5c0a1f,100:0b0b0f&height=120&section=footer" width="100%"/>
 </p>
