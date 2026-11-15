@@ -196,8 +196,9 @@ timeline
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=amreshpr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d4ff&icon_color=6a00f4&text_color=ffffff&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=amreshpr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d4ff&text_color=ffffff&langs_count=8" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amreshpr&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amreshpr&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amreshpr&theme=tokyonight" />
 </p>
 
 <p align="center">
