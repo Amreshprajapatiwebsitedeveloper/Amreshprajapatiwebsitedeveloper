@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://amreshprajapati.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-amreshprajapati.com-6a00f4?style=for-the-badge&labelColor=0f0c29"/></a>
   <a href="mailto:info@amreshprajapati.com"><img src="https://img.shields.io/badge/📩_Hire_Me-info@amreshprajapati.com-00d4ff?style=for-the-badge&labelColor=0f0c29"/></a>
-  <img src="https://komarev.com/ghpvc/?username=amreshpr&label=Profile%20Views&color=6a00f4&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Amreshprajapatiwebsitedeveloper&label=Profile%20Views&color=6a00f4&style=for-the-badge" alt="profile views"/>
 </p>
 
 <p align="center">
@@ -196,28 +196,28 @@ timeline
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amreshpr&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amreshpr&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amreshpr&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amreshprajapatiwebsitedeveloper&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amreshprajapatiwebsitedeveloper&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amreshprajapatiwebsitedeveloper&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amreshpr&theme=tokyonight&hide_border=true&background=0f0c29&ring=6a00f4&fire=00d4ff&currStreakLabel=00d4ff" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Amreshprajapatiwebsitedeveloper&theme=tokyonight&hide_border=true&background=0f0c29&ring=6a00f4&fire=00d4ff&currStreakLabel=00d4ff" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amreshpr&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amreshprajapatiwebsitedeveloper&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=amreshpr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=Amreshprajapatiwebsitedeveloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
 <!-- Snake animation: works after adding .github/workflows/snake.yml (see setup notes) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amreshpr/amreshpr/output/github-snake-dark.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amreshpr/amreshpr/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amreshprajapatiwebsitedeveloper/Amreshprajapatiwebsitedeveloper/output/github-snake-dark.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Amreshprajapatiwebsitedeveloper/Amreshprajapatiwebsitedeveloper/output/github-snake.svg" />
   </picture>
 </p>
 
